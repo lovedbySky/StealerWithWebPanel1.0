@@ -4,7 +4,7 @@ This is a browsers and info stealer (windows only yet) with web gui panel, authe
 
 <b>What info you can take</b>:
 
-  ip, contry, city, host<br>
+  ip, contry, city, host, password and cookies from browsers<br>
   <i>Supported browsers:<br></i>
   google chrome<br>
   amigo<br>
