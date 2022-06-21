@@ -5,13 +5,9 @@ This is a browsers and info stealer (windows only yet) with web gui panel, authe
 <b>What info you can take</b>:
 
   ip, contry, city, host
-
   google chrome password and cookies
-
   amigo password and cookies
-
   brave password and cookies
-
   microsoft edge password and cookies
 
   mozilla firefox password and cookies
