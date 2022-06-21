@@ -11,8 +11,10 @@ python start.ru
 
 # Login
 by default >
-  login: admin;
-  password: admin;
+
+  login: admin
+  
+  password: admin
   
 ![image](https://user-images.githubusercontent.com/101527966/174895245-7c18731c-b10d-4340-bda0-390bbf4baeb0.png)
 
