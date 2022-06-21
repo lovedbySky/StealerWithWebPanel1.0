@@ -2,25 +2,25 @@
 
 This is a browsers and info stealer (windows only yet) with web gui panel, authentication, database and build in panel.
 
-What info you can take:
+<b>What info you can take</b>:
 
-ip, contry, city, host
+  ip, contry, city, host
 
-google chrome password and cookies
+  google chrome password and cookies
 
-amigo password and cookies
+  amigo password and cookies
 
-brave password and cookies
+  brave password and cookies
 
-microsoft edge password and cookies
+  microsoft edge password and cookies
 
-mozilla firefox password and cookies
+  mozilla firefox password and cookies
 
-opera password and cookies
+  opera password and cookies
 
-chromium password and cookies
+  chromium password and cookies
 
-Was tested in windows10 and Ubuntu22.04
+(Was tested in windows10 and Ubuntu22.04)
 
 ![image](https://user-images.githubusercontent.com/101527966/174895329-12b45188-9931-44ce-b142-1d692636ba50.png)
 
