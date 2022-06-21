@@ -4,8 +4,8 @@ This is a browser stealer with web gui panel, authentication, database and build
 
 # Login
 by default >
-  login: admin
-  password: admin
+  login: admin;
+  password: admin;
   
 ![image](https://user-images.githubusercontent.com/101527966/174895245-7c18731c-b10d-4340-bda0-390bbf4baeb0.png)
 
@@ -14,3 +14,5 @@ by default >
 
 # Build stealer
 ![image](https://user-images.githubusercontent.com/101527966/174895155-0c0b570e-a655-4492-8811-04b87e5730b4.png)
+
+![image](https://user-images.githubusercontent.com/101527966/174898453-5c372ecd-4d84-43ce-9067-61536accc944.png)
