@@ -2,6 +2,8 @@
 
 This is a browser stealer (windows only yet) with web gui panel, authentication, database and build in panel.
 
+Was tested in windows10 and Ubuntu22.04
+
 ![image](https://user-images.githubusercontent.com/101527966/174895329-12b45188-9931-44ce-b142-1d692636ba50.png)
 
 # How to setup:
