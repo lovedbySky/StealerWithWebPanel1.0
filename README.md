@@ -1,6 +1,6 @@
 # Stealer with WebPanel
 
-This is a browsers and info stealer (windows only yet) with web gui panel, authentication, database and build in panel.
+This is a browsers and info stealer (windows only yet) with web gui panel, authentication, database and build in panel. Author not answer for any inlligal using software.
 
 <b>What info you can take</b>:
 
