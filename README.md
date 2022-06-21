@@ -1,6 +1,24 @@
 # Stealer with WebPanel
 
-This is a browser stealer (windows only yet) with web gui panel, authentication, database and build in panel.
+This is a browsers and info stealer (windows only yet) with web gui panel, authentication, database and build in panel.
+
+What info you can take:
+
+ip, contry, city, host
+
+google chrome password and cookies
+
+amigo password and cookies
+
+brave password and cookies
+
+microsoft edge password and cookies
+
+mozilla firefox password and cookies
+
+opera password and cookies
+
+chromium password and cookies
 
 Was tested in windows10 and Ubuntu22.04
 
