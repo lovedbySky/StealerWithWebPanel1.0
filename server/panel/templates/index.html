@@ -1,0 +1,45 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+	<p style="margin-top: 60%;"></p>
+    {% for profile in profiles %}
+    	<div id="database" class="p-4 mb-4 shadow-lg bg-white rounded">
+			<div style="line-height: 20px; word-break: break-all">
+				<h3>{{ profile.name }}</h3>
+				<h6>{{ profile.date }}</h6>
+				<p>{{ profile.info|safe }}</p>
+
+				{% if profile.chrome != 'Not Found' %}
+					<p><strong>chrome > </strong>{{ profile.chrome|safe }}</p>
+				{% endif %}
+
+				{% if profile.brave != 'Not Found' %}
+				<p><strong>brave > </strong>{{ profile.brave|safe }}</p>
+				{% endif %}
+
+				{% if profile.chromium != 'Not Found' %}
+				<p><strong>chromium > </strong>{{ profile.chromium|safe }}</p>
+				{% endif %}
+
+				{% if profile.opera != 'Not Found' %}
+					<p><strong>opera > </strong>{{ profile.opera|safe }}</p>
+				{% endif %}
+
+				{% if profile.amigo != 'Not Found' %}
+				<p><strong>amigo > </strong>{{ profile.amigo|safe }}</p>
+				{% endif %}
+
+				{% if profile.firefox != 'Not Found' %}
+				<p><strong>firefox > </strong>{{ profile.firefox|safe }}</p>
+				{% endif %}
+
+				{% if profile.edge != 'Not Found' %}
+				<p><strong>edge > </strong>{{ profile.edge|safe }}</p>
+				{% endif %}
+				<p>
+					<a class="me-3 py-2 text-white text-decoration-none btn btn-danger" href="/remove/{{ profile.id }}">Delete</a>
+				</p>
+			</div>
+		</div>
+	{% endfor %}
+{% endblock %}

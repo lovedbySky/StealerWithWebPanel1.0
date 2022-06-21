@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block title %}Stealer Config{% endblock %}
+{% block page_name %}Config{% endblock %}
+
+{% block content %}
+
+    <p style="margin-top: 50%;"></p>
+    <form id="config" class="form-control p-5 mb-5 shadow-lg bg-white rounded" action="" method="post">
+        <p>{{ conf.name.label }} {{ conf.name }} .exe</p>
+        {% for item in conf %}
+            {% if item.name != 'csrf_token' and item.name != 'submit' and item.name != 'name' %}
+                <p>{{ item.label }} {{ item }}</p>
+            {% endif %}
+        {% endfor %}
+        <p>{{ conf.submit(class="btn btn-success") }}</p>
+        <div>{{ get_flashed_messages()[0]|safe }}</div>
+    </form>
+{% endblock %}
