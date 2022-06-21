@@ -1,6 +1,6 @@
 # Stealer with WebPanel
 
-This is a browser stealer with web gui panel, authentication, database and build in panel.
+This is a browser stealer (windows only yet) with web gui panel, authentication, database and build in panel.
 
 ![image](https://user-images.githubusercontent.com/101527966/174895329-12b45188-9931-44ce-b142-1d692636ba50.png)
 
