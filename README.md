@@ -4,14 +4,14 @@ This is a browsers and info stealer (windows only yet) with web gui panel, authe
 
 <b>What info you can take</b>:
 
-  <p>ip, contry, city, host<br></p>
-  <p>google chrome password and cookies<br></p>
-  <p>amigo password and cookies<br>
-  <p>brave password and cookies<br>
-  <p>microsoft edge password and cookies<br>
-  <p>mozilla firefox password and cookies<br>
-  <p>opera password and cookies<br>
-  <p>chromium password and cookies<br>
+  ip, contry, city, host<br>
+  google chrome password and cookies<br>
+  amigo password and cookies<br>
+  brave password and cookies<br>
+  microsoft edge password and cookies<br>
+  mozilla firefox password and cookies<br>
+  opera password and cookies<br>
+  chromium password and cookies<br>
 
 (Was tested in windows10 and Ubuntu22.04)
 
